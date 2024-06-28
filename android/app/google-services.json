@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "452062820879",
+    "project_id": "meetmefit-challenges",
+    "storage_bucket": "meetmefit-challenges.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452062820879:android:9ca11303c641c90d16417a",
+        "android_client_info": {
+          "package_name": "com.meetmefit.meetmefitchallenges"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452062820879-esbvljjg3bfrkt4htkv0mq83sppf8jt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdk5WM8XP-Ilyt1e3Jb-Ob9dD5m77MP-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452062820879-esbvljjg3bfrkt4htkv0mq83sppf8jt8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "452062820879-kr1orscjgv19shlfln9tusqqil3f03h7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meetmefit.meetmefitchallengesapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
